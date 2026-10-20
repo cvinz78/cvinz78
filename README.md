@@ -10,12 +10,6 @@ Wenn euch eines meiner Tools gefällt, freue ich mich über ein paar **Sterne** 
 
 ---
 
-## Mein Tool
-
-- **[clonie](https://github.com/cvinz78/clonie)** – Festplatten/Partitionen klonen, Images erstellen und zurückschreiben – alles über ein nummeriertes Menü. Ein einziges Bash-Skript für Alpine, Arch, Debian und Ubuntu; sichert auch Windows-Platten (NTFS).
-
----
-
 ## English
 
 I had cancer. Since the operations things have been getting a little better, and I'm trying to find my way back, step by step.
@@ -25,9 +19,3 @@ I'm using this time to learn new things and build my own tools — like **LinuxL
 Money is tight these days, so unfortunately I **can't offer permanent support** — but I try to do what's possible.
 
 If you like one of my tools, I'd be happy about a few **stars** ⭐ — it means a lot.
-
----
-
-## My tool
-
-- **[clonie](https://github.com/cvinz78/clonie)** – Clone disks/partitions, create and restore images — all via a numbered menu. A single Bash script for Alpine, Arch, Debian and Ubuntu; also backs up Windows disks (NTFS).
